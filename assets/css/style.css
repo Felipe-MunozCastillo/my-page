@@ -1,0 +1,60 @@
+#my-nav-bar {
+    background-color: #132043;
+    font-family: 'Raleway', sans-serif;
+}
+
+p {
+    font-family: 'Raleway', sans-serif;
+}
+
+.hover-overlay:hover {
+    background-color: hsla(217, 89%, 51%, 0.5);
+}
+
+hr {
+    height: 6px;
+    background-color: #1F4172;
+    opacity: 1;
+}
+
+#main-photo {
+    border-radius: 50%;
+    border: 5px solid black;
+}
+
+.sobre-mi {
+    background-color: #132043;
+    color: #FDF0F0;
+}
+
+.caracteristicas {
+    color: #FDF0F0;
+}
+
+.card-text {
+    text-align: left;
+}
+
+#mas-sobre-mi {
+    background-color: #F3F0CA;
+    border-radius: 5%;
+    color: #132043;
+}
+
+#incognito {
+    border: 5px solid black;
+}
+
+.img-portfolio {
+    border: 5px solid black;
+}
+
+.portfolio-button {
+    background-color: #132043;
+    color: white;
+}
+
+#contacto {
+    background-color: #132043;
+    color: white;
+}
